@@ -1,3 +1,6 @@
+Simulação de Sinais de RMN em Matlab
+=============
+
 Objetivo deste projeto é disponibilizar códigos de simulação de sinais de RMN de Baixa  Resolução (time domain NMR) em Matlab.
 
 Relacionado com a Publicação:
